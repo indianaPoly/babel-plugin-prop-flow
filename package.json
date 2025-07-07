@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-prop-flow",
+  "version": "1.0.0",
+  "description": "Babel plugin to analyze React JSX prop flow and generate component tree reports in JSON and Markdown.",
+  "main": "index.js",
+  "keywords": ["babel", "plugin", "react", "jsx", "props", "analysis"],
+  "author": "KOHYEONLIM",
+  "license": "MIT",
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
