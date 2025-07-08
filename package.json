@@ -10,6 +10,10 @@
   ],
   "author": "KOHYEONLIM",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indianaPoly/babel-plugin-prop-flow"
+  },
   "scripts": {
     "build": "babel src --out-dir dist"
   },
@@ -17,7 +21,7 @@
     "@babel/core": ">=7.12.0"
   },
   "engines": {
-    "node": ">=14.0.0",
+    "node": ">=18.0.0",
     "npm": ">=6"
   },
   "files": [
